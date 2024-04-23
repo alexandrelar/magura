@@ -1,2 +1,0 @@
-Introduction to Project: Magura
-=====
