@@ -1,2 +1,2 @@
-Non-Commissioned Officer Handbook
+NCO Handbook
 =====
