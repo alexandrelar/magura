@@ -1,2 +1,2 @@
-Enlisted Personnel Handbook
+Non-Commissioned Officer Handbook
 =====
