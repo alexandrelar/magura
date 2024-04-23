@@ -1,2 +1,2 @@
-Enlisted Personnel Handbook
+Senior Non-Commissioned Officer Handbook
 =====
