@@ -7,13 +7,18 @@ Project: Magura Documentation
 
 Welcome to the Project: Magura Documentation site. Here you will find all relevant information to get you up to speed with current SOPs and unit expextations. 
 
-Contents
---------
 
 .. toctree::
+   :maxdepth: 1
+   :caption: Unit Information
+   
+   history
 
+.. toctree::
+   :maxdepth: 1
+   :caption: Roles & Expectations
+   
    enlisted
    nco
    snco
    officers
-   history
