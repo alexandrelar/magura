@@ -1,13 +1,11 @@
-Project: Magura Documentation
+Project: Magura Manual
 ===================================
-
-
-
-Welcome to the Project: Magura documentation website. Here you will find all relevant information and documentation related to our Arma 3 unit.
 
 .. note::
 
    Our discord invite link is: https://discord.gg/BkPDVkTPB3
+
+Welcome to the Project: Magura Manual.
 
 Contents
 --------
