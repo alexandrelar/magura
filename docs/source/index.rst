@@ -3,8 +3,7 @@ Project: Magura Documentation
 
 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Welcome to the Project: Magura documentation website. Here you will find all relevant information and documentation related to our Arma 3 unit.
 
 .. note::
 
@@ -15,5 +14,7 @@ Contents
 
 .. toctree::
 
-   introduction
-   api
+   enlisted
+   nco
+   snco
+   officers
