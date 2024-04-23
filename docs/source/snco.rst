@@ -1,2 +1,2 @@
-Senior Non-Commissioned Officer Handbook
+S/NCO Handbook
 =====
