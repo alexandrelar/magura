@@ -10,6 +10,13 @@ Welcome to the Project: Magura Documentation site. Here you will find all releva
 
 .. toctree::
    :maxdepth: 1
+   :caption: Core Infantry
+
+radios
+smoke
+
+.. toctree::
+   :maxdepth: 1
    :caption: Unit Information
    
    history
