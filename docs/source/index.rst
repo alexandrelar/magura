@@ -20,12 +20,3 @@ smoke
    :caption: Unit Information
    
    history
-
-.. toctree::
-   :maxdepth: 1
-   :caption: Roles & Expectations
-   
-   enlisted
-   nco
-   snco
-   officers
