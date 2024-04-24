@@ -8,15 +8,19 @@ Project: Magura Documentation
 Welcome to the Project: Magura Documentation site. Here you will find all relevant information to get you up to speed with current SOPs and unit expextations. 
 
 
+=================================================
+Test:
+=================================================
+
 .. toctree::
    :maxdepth: 1
-   :caption: Unit Information
+   :caption: Basic Infantry
+   
+   radios
+   smoke
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Unit Operational History
    
    history
-
-.. toctree::
-   :maxdepth: 1
-   :caption: Core Infantry
-
-radios
-smoke
