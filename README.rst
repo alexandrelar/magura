@@ -1,9 +1,7 @@
-Template for the Read the Docs tutorial
+Project: Magura Website
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+This is a private repository for the Arma 3 Project: Magura website.
 
-Read the tutorial here:
+https://magura.readthedocs.io/
 
-https://docs.readthedocs.io/en/stable/tutorial/
