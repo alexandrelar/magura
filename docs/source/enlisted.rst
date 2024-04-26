@@ -1,2 +1,0 @@
-Enlisted Personnel Handbook
-=====
